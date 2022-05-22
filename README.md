@@ -27,6 +27,6 @@
 
 마크다운 사용법 : https://gist.github.com/ihoneymon/652be052a0727ad59601
 
-# 정리 방법
+### 정리 방법
 
 + 각자 알아서 + 배운 부분에서 샘플 소스 공유하기(1,2chapter는 빼고)
