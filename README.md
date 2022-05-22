@@ -24,3 +24,5 @@
 + 11주차 (08/01 ~ 08/07) : chapter12
 
 + 12주차 (08/08 ~ 08/14) : chapter13
+
+마크다운 사용법 : https://gist.github.com/ihoneymon/652be052a0727ad59601
